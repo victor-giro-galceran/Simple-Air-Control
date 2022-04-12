@@ -4,7 +4,7 @@ This is an activity to practice object-oriented programming. It consists of cont
 ### Project state
 | Today's code  | To update |
 | ------------- | ------------- |
-|  <ul><li>[x] A</li><li>[x] B</li><li>[x] C</li><li>[x] D</li></ul>  | <li>[ ] A</li><li>[ ] B</li><li>[ ] C</li><li>[ ] D</li>  |
+|<ul><li>[x] A</li><li>[x] B</li><li>[x] C</li><li>[x] D</li></ul>|<li>[ ] A</li><li>[ ] B</li><li>[ ] C</li><li>[ ] D</li>|
 
 # Project function
 
