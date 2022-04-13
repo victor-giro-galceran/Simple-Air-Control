@@ -1,5 +1,5 @@
 # Object-oriented programming
-This is an activity to practice object-oriented programming. It consists of controlling planes with the creation of classes.
+This is an activity to practice object-oriented programming. It consists of controlling planes with classes.
 
 ### Project state
 | Today's code  | To update |
